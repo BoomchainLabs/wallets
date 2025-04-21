@@ -5255,13 +5255,13 @@ expo-asset@~9.0.2:
     invariant "^2.2.4"
     md5-file "^3.2.3"
 
-expo-build-properties@0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/expo-build-properties/-/expo-build-properties-0.11.0.tgz#523e242b5db2f26b9fd397dcf2c841824aed348c"
-  integrity sha512-14+UjV4uKCI5KsOw/BTL++T3N1OPWnOvLGoF39/o9XjB4t0wqXoSrcEl6ZbtH/b3xzd6dj9pnDDBLWDn/7uKvQ==
+expo-build-properties@0.13.2:
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/expo-build-properties/-/expo-build-properties-0.13.2.tgz#c9cef927fc8236551d940da4fd8dc1332e2d052d"
+  integrity sha512-ML2GwBgn0Bo4yPgnSGb7h3XVxCigS/KFdid3xPC2HldEioTP3UewB/2Qa4WBsam9Fb7lAuRyVHAfRoA3swpDzg==
   dependencies:
     ajv "^8.11.0"
-    semver "^7.5.3"
+    semver "^7.6.0"
 
 expo-constants@~15.4.0:
   version "15.4.5"
@@ -8978,6 +8978,11 @@ semver@^7.2.1, semver@^7.3.2, semver@^7.3.5, semver@^7.5.3:
   integrity sha512-1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA==
   dependencies:
     lru-cache "^6.0.0"
+
+semver@^7.6.0:
+  version "7.7.1"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.7.1.tgz#abd5098d82b18c6c81f6074ff2647fd3e7220c9f"
+  integrity sha512-hlq8tAfn0m/61p4BVRcPzIGr6LKiMwo4VM6dGi6pt4qcRkmNzTcWq6eCEjEh+qXjkMDvPlOFFSGwQjoEa6gyMA==
 
 send@0.18.0, send@^0.18.0:
   version "0.18.0"
