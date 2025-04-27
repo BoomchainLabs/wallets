@@ -1,0 +1,12 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu", // Replace with your preferred base image
+  "features": {
+    "ghcr.io/devcontainers-extra/features/circleci-cli:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": []
+    }
+  }
+  
