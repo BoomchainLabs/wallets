@@ -15,7 +15,7 @@
     "expo-splash-screen": "0.26.4",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.78.1",
+    "react-native": "0.79.0",
     "react-native-mmkv": "^2.11.0"
   },
   "devDependencies": {
